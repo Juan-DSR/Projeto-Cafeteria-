@@ -140,7 +140,6 @@ class SistemaCafe: # gerencia todo o sistema da cafeteria
         for p in self.pedidos:
             p.mostrar()
 
-
 # -------- Menu Principal --------
 if __name__ == "__main__":
     sistema = SistemaCafe()
